@@ -2,7 +2,6 @@
 
 <p align="center">
     ashkanfeyzollahi@gmail.com • Iran, East Azerbaijan Province, Tabriz
-    <a>https://ashkanfeyzollahi.github.io</a>
 </p>
 
 ## Objective
